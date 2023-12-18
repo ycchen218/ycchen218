@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bill! graduated from National Central University, Taiwan.
-- 🦾 My major is electrical engineering.
+- 👋 Hi, I’m Bill! currently employed as an AI Engineer at Brocere Electronics.
+- 🦾 Graduated from National Central University, Taiwan.
 - 👀 I’m interested in computer vision, auto-driving, NLP, GAN...
-- 🤖 Recently research in using machine-learning method to solve Electronic Design Automation(EDA) problem.
+- 🤖 Recently research in multimodal deep learning.
 - 📫 Email: jogu31508@gmail.com
 
 <!---
