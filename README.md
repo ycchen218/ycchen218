@@ -1,5 +1,5 @@
 ## 👋Hey there,
-- 👋 Hi, I’m Bill! currently employed as an AI Engineer at Brocere Electronics.
+- 👋 Hi, I’m Bill! currently employed as an AI Engineer at D8AI Inc.
 - 🦾 Graduated from National Central University, Taiwan.
 - 👀 I’m interested in computer vision, auto-driving, NLP, GAN...
 - 🤖 Recently research in multimodal deep learning.
